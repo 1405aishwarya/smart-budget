@@ -25,7 +25,7 @@ Chart.js
 1. Clone the Repository
 
 git clone https://github.com/yourusername/smartbudget.git
-cd smartbudget
+cd tracker
 Clones the project files to your local machine.
 
 2. Install Dependencies
